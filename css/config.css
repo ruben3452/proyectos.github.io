@@ -1,0 +1,15 @@
+.btn.btn-success.dropdown-toggle{
+    margin-right: 45px;
+}
+
+.footer{
+    border-top: 1px solid rgba(50, 50, 50, 0.3);
+    width: 100%;
+    position: fixed;
+    bottom: 0;  
+    padding: 5px ; 
+  }
+
+  .mb-1{
+    margin-left: 25px;
+}
